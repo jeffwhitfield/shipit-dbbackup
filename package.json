@@ -1,0 +1,26 @@
+{
+  "name": "shipit-dbbackup",
+  "version": "0.1.0",
+  "description": "A set of backup/restore database tasks for Shipit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jeffwhitfield/shipit-dbbackup.git"
+  },
+  "keywords": [
+    "shipit",
+    "database",
+    "task",
+    "backup",
+    "restore"
+  ],
+  "author": "Jeff Whitfield <jeff@soulcraftgroup.com> (http://thejeffwhitfield.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffwhitfield/shipit-dbbackup/issues"
+  },
+  "homepage": "https://github.com/jeffwhitfield/shipit-dbbackup"
+}
